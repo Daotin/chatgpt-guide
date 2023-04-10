@@ -1,6 +1,7 @@
 # chatgpt-guide
 
 > ChatGPT 和 Midjourney 相关入门指南及资料分享
+> Update: 2023-04-10
 
 # ChatGPT
 
@@ -13,28 +14,28 @@
 
 > ⭐ 表示使用过并且觉得不错的
 
-- https://chat.openai.com/chat：正版ChatGPT⭐
-- https://www.xqss.link/ai：小秋搜索⭐
-- https://freegpt.one/：⭐
+- https://chat.openai.com/chat 正版ChatGPT⭐
+- https://www.xqss.link/ai 小秋搜索⭐
+- https://freegpt.one/ ⭐
 - https://chat.odeioikr.top/#/chat/1678960395367
 - https://freechatgpt.lol/
 - https://huggingface.co/spaces/anzorq/chatgpt-demo
-- https://chat.51buygpt.com/：ChatGPT社区免费版 | 51BuyGPT
-- https://chatgpt.ddiu.me/：ChatGPT API Demo
-- https://chat.binjie.site:7777/#/chat/1677916151853：仅用于开发学习交流⭐
-- https://chatbot.theb.ai/#/chat/1002：BAI Chat⭐⭐
-- https://ai.ci/：AL.LS
-- https://chat.theb.ai/#/chat/1002：⭐
+- https://chat.51buygpt.com/ ChatGPT社区免费版 | 51BuyGPT
+- https://chatgpt.ddiu.me/ ChatGPT API Demo
+- https://chat.binjie.site:7777/#/chat/1677916151853 仅用于开发学习交流⭐
+- https://chatbot.theb.ai/#/chat/1002 BAI Chat⭐⭐
+- https://ai.ci/ AL.LS
+- https://chat.theb.ai/#/chat/1002 ⭐
 - https://ai.okmiku.com/chat/
-- https://desk.im/：AL.LS
-- https://chat4.xeasy.me/：markdown支持不好
-- https://chat.okis.dev/zh-CN?mode=chat：每天有额度
-- https://archbot.top/：需要密码
+- https://desk.im/ AL.LS
+- https://chat4.xeasy.me/ markdown支持不好
+- https://chat.okis.dev/zh-CN?mode=chat 每天有额度
+- https://archbot.top/ 需要密码
 - https://chatgpt123.fyi/
-- https://chat-ai.logcg.com/：落格智聊
-- https://www.ahhhhfs.com/39418/：在线体验ChatGPT网站集合 – ahhhhfs
-- https://github.com/weekend-project-space/chatgpt-sites：搜集国内可用的 ChatGPT 在线体验免费网站列表
-- https://lzw.me/x/chatgpt-sites/：ChatGPT 免费网站在线体验列表导航站
+- https://chat-ai.logcg.com/ 落格智聊
+- https://www.ahhhhfs.com/39418/ 在线体验ChatGPT网站集合 – ahhhhfs
+- https://github.com/weekend-project-space/chatgpt-sites 搜集国内可用的 ChatGPT 在线体验免费网站列表
+- https://lzw.me/x/chatgpt-sites/ ChatGPT 免费网站在线体验列表导航站
 
 ## 帮助 Code 的 AI 工具
 
