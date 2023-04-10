@@ -88,9 +88,7 @@
   - 上传 PDF，然后与之对话
   - 费用：10M 以内 PDF 免费，每天限 3 个
 - [PandaGPT](https://www.pandagpt.io/)
-
   - Upload a file, ask anything，Powered by ChatGPT
-
 - [BookAI](https://www.bookai.chat/)
   - Chat with any book using AI
 
