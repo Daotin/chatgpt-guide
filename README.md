@@ -1,9 +1,22 @@
 # chatgpt-guide
 
 > ChatGPT 和 Midjourney 相关入门指南及资料分享
-> Update: 2023-04-10
+>
+> Update: `2023-04-10`
 
-[TOC]
+- [chatgpt-guide](#chatgpt-guide)
+- [ChatGPT](#chatgpt)
+  - [搜索引擎替代网站](#搜索引擎替代网站)
+  - [ChatGPT 替代网站](#chatgpt-替代网站)
+  - [帮助 Code 的 AI 工具](#帮助-code-的-ai-工具)
+  - [AI 工具箱](#ai-工具箱)
+  - [ChatGPT 应用案例分享](#chatgpt-应用案例分享)
+    - [应用汇总网站](#应用汇总网站)
+    - [上传文件相关](#上传文件相关)
+    - [私人 AI 助理](#私人-ai-助理)
+  - [ChatGPT Prompts](#chatgpt-prompts)
+  - [ChatGPT 入门教程](#chatgpt-入门教程)
+- [Midjourney](#midjourney)
 
 # ChatGPT
 
