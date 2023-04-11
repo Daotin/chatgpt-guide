@@ -52,6 +52,7 @@
 - https://github.com/weekend-project-space/chatgpt-sites 搜集国内可用的 ChatGPT 在线体验免费网站列表
 - https://lzw.me/x/chatgpt-sites/ ChatGPT 免费网站在线体验列表导航站
 - [carrot](https://github.com/xx025/carrot) ChatGPT 镜像站
+- https://lzw.me/x/chatgpt-sites/
 
 ## 帮助 Code 的 AI 工具
 
