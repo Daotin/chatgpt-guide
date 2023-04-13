@@ -78,6 +78,7 @@
 - [GPT-4 Demo](https://gpt4demo.com/)
 - [OpenAI 应用汇总指南](https://www.mojidoc.com/05z7y-dd5pa7hu3zfmhnbngoeztyqcnq-00b)
 - https://www.emergentmind.com/：国外的一个分享AI创意的网站
+- [带你玩赚 AIGC](https://www.aigctoolkit.com/): 按使用场景做了详细的分类，可以快速找到自己想要的 ai 应用。别的站都在疯狂地增加收录，这个站一直在不停的删除收录，收录的质量还是不错的。
 
 ### 上传文件相关
 
