@@ -19,6 +19,7 @@
     - [其他](#其他)
   - [ChatGPT Prompts](#chatgpt-prompts)
   - [ChatGPT 入门教程](#chatgpt-入门教程)
+  - [入门科普文章](#入门科普文章)
 - [Midjourney](#midjourney)
 
 # ChatGPT
@@ -146,6 +147,10 @@
 - [The Ultimate Chat GPT Course](https://daotin.notion.site/The-Ultimate-Chat-GPT-Course-c5895cbb68aa4472b262a3a10407579a)
 - [ChatGPT 中文指南](https://gitlab.com/awesomeai/awesome-chatgpt-zh)
 - [Learn Prompting](https://learnprompting.org/)：全面的提示工程课程，有中文版
+
+## 入门科普文章
+
+- [面向完全外行的 chatGPT 和大语言模型的介绍](http://hemin.live/2023/04/15/%e9%9d%a2%e5%90%91%e5%ae%8c%e5%85%a8%e5%a4%96%e8%a1%8c%e7%9a%84chatgpt%e5%92%8c%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e7%9a%84%e4%bb%8b%e7%bb%8d/)
 
 # Midjourney
 
