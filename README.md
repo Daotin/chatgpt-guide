@@ -97,6 +97,8 @@
   - 类似的有：
     - [https://github.com/guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles)
     - [DocsGPT](https://github.com/arc53/DocsGPT)
+    - [ChatDoc](https://chatdoc.com/)：个人对比：chatpdf支持连续提问，chatdoc不支持；chatdoc的回答似乎更好一些，并且页码点击跳转（应该表示它学习了哪些段落吧）。具体来说，感觉都可以以满足需求。
+
 - [PandaGPT](https://www.pandagpt.io/)
   - Upload a file, ask anything，Powered by ChatGPT
 - [BookAI](https://www.bookai.chat/)
