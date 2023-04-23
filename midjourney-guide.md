@@ -13,6 +13,12 @@
 - [Yodayo](https://yodayo.com/text-to-image/)：一键出图，操作更简单！制作 60 张图片
 - [Kalos](https://kalos.art)：支持 Midjourney V4 和 Stable Diffusion，一键复制 prompt，实用又方便
 
+## Midjourney 入门教程
+
+- [Midjourney AI 绘画：从入门到精通系列课](https://www.bilibili.com/video/BV1p24y1h7CQ)
+- [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
+-
+
 ## 案例分享
 
 - [做一个英文绘本](https://twitter.com/mranti/status/1639445923737763840?s=12&t=Ijr1EQS4lpR7ko3D2ZXinQ)
