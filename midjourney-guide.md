@@ -6,6 +6,7 @@
 - [prompthero](https://prompthero.com/): 适用于 ChatGPT、Midjourney、Stable Diffusion，最近用 Midjourney 比较多，找见想要风格的图片，直接复制 Prompts 就可以，效果还是不错的
 - [https://lib.kalos.art/](https://lib.kalos.art/)：AI 艺术风格库
 - [MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference): MidJourney 关键词手册，里面列出了非常多的关键词和对应 MidJourney 画出来的效果
+- [MidJourney Prompt Helper](https://prompt.noonshot.com/midjourney): MidJourney 提示助手
 
 ## Midjourney 平替网站
 

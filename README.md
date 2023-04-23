@@ -1,6 +1,6 @@
 # chatgpt-guide
 
-ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04-22`
+ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04-23`
 
 ---
 
@@ -55,7 +55,7 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04
 - [The Ultimate Chat GPT Course](https://daotin.notion.site/The-Ultimate-Chat-GPT-Course-c5895cbb68aa4472b262a3a10407579a)
 - [The Ultimate GPT-4 Guide](https://doc.clickup.com/37456139/d/h/13q28b-324/e2a22b0c164b1f9)
 - [ChatGPT 中文指南](https://gitlab.com/awesomeai/awesome-chatgpt-zh)
-- [Learn Prompting](https://learnprompting.org/)：全面的提示工程课程，有中文版
+- [Learn Prompting](https://learnprompting.org/)：全面的提示工程课程。内容细致、课程系统、页面设计也非常友好！它把“提示工程”的知识分成了一个又一个的信息块，每块信息的教学简明又扼要，页面内还直接设有简体中文按钮。
 - [Learning prompt](https://learningprompt.wiki/): earningprompt 是一个提供 ChatGPT 和 Midjourney 教程的网站，教程内容深入浅出，包含基础的使用教程、Prompt 原理和使用实例，非常实用
 - [面向完全外行的 chatGPT 和大语言模型的介绍](http://hemin.live/2023/04/15/%e9%9d%a2%e5%90%91%e5%ae%8c%e5%85%a8%e5%a4%96%e8%a1%8c%e7%9a%84chatgpt%e5%92%8c%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e7%9a%84%e4%bb%8b%e7%bb%8d/)
 - [ChatGPT 科普系列](https://www.bilibili.com/video/BV1VY4y117Bx/?spm_id_from=333.788&vd_source=374c472369aaf0101e19ddf06e5e4233): 从专业的角度分别就发展轨迹、基本原理、竞品开发、社会影响和弱点局限等主题连续制作五期视频，深入全面地剖析 ChatGPT 的方方面面.
@@ -76,6 +76,7 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04
 - [ChatGPT 分类提示语](https://prompts.fresns.cn/)：分门别类的提示语大全。汇集了丰富的 ChatGPT 提示语、创意写作灵感与实用技巧
 - [ChatGPT Shortcut](https://www.aishort.top/)：让生产力加倍的 ChatGPT 快捷指令
 - [ChatGPT 备忘单](https://quickref.me/chatgpt)：此备忘单列出了来自世界各地的有关如何有效使用 ChatGPT 的提示和技巧
+- [Prompt 编写模式：如何将思维框架赋予机器](https://github.com/prompt-engineering/prompt-patterns)
 
 ## 使用 ChatGPT 搭建的应用汇总网站
 
@@ -146,6 +147,10 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04
   - （上）https://mp.weixin.qq.com/s/AmNkiLOqJo7tEJZPX34oeg
   - （下）https://mp.weixin.qq.com/s/8EE3y4hU5Rp0rCCDPBEL2w
   - 代码仓库 https://github.com/lencx/chat-todo-plugin
+
+## 好文分享
+
+- [使用 ChatGPT 的 4 个原则](https://m.okjike.com/originalPosts/643b6486205bd8b62e542eff)： 一篇文章分享了不需要去找 prompt,就可以激发 GPT 的潜能，让每次对话都受益匪浅～
 
 ## 其他
 
