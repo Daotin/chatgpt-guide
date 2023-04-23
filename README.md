@@ -100,68 +100,52 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04
 
 ## AI 工具汇总列表
 
-- 翻译相关
+<details><summary>翻译相关</summary>
 
-| name                                                             | desc                                                                        |
-| ---------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [openai-translator](https://github.com/yetone/openai-translator) | 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用                     |
-| [风声雨声](https://fsys.app/)                                    | 基于 ChatGPT 的翻译服务。可以上传文件，或者填写书籍链接进行翻译。费用：收费 |
+- [openai-translator](https://github.com/yetone/openai-translator): 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用
+- [风声雨声](https://fsys.app/): 基于 ChatGPT 的翻译服务。可以上传文件，或者填写书籍链接进行翻译。费用：收费
 
-- ChatGPT 辅助
+</details>
 
-| name                 | desc                                                                                                                                                                                                                        |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 不用手动刷新 ChatGPT | 这个[油猴脚本](https://m.okjike.com/originalPosts/644257a3094426a059596806?s=eyJ1IjoiNWE4OGVkNWEwMTNhYjcwMDFiNTM2MDY2IiwiZCI6MX0%3D)让你再也不用时不时手动刷新 ChatGPT，类似的还有：https://github.com/xcanwin/KeepChatGPT/ |
+<details><summary>ChatGPT 辅助</summary>
 
-- 个人 AI 助理
+- 不用手动刷新 ChatGPT，这个[油猴脚本](https://m.okjike.com/originalPosts/644257a3094426a059596806?s=eyJ1IjoiNWE4OGVkNWEwMTNhYjcwMDFiNTM2MDY2IiwiZCI6MX0%3D)让你再也不用时不时手动刷新 ChatGPT，类似的还有：https://github.com/xcanwin/KeepChatGPT/
+</details>
 
-| name                                          | desc                                                                                                                         |
-| --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| [COPILOT HUB](https://app.copilothub.co/home) | 通过自己上传资料来训练成自己的 AI 助理，并且能公开分享根据自己录入数据打造的问答机器人，比如能以乔布斯口吻回答问题的机器人。 |
-|                                               |                                                                                                                              |
+<details><summary>个人 AI 助理</summary>
 
-- 上传文档总结和提问
+- [COPILOT HUB](https://app.copilothub.co/home) ： 通过自己上传资料来训练成自己的 AI 助理，并且能公开分享根据自己录入数据打造的问答机器人，比如能以乔布斯口吻回答问题的机器人。
+</details>
 
-| name                                                                                   | desc                                                                                                                                                         |
-| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [ChatPDF](https://www.chatpdf.com/)                                                    | 上传 PDF，然后可以针对此文档进行问答，或者总结文档内容。费用：10M 以内 PDF 免费，每天限 3 个                                                                 |
-| [ChatDoc](https://chatdoc.com/)                                                        | 个人对比：chatpdf 支持连续提问，chatdoc 不支持；chatdoc 的回答似乎更好一些，并且页码点击跳转（应该表示它学习了哪些段落吧）。具体来说，感觉都可以以满足需求。 |
-| [DocsGPT](https://github.com/arc53/DocsGPT)                                            |                                                                                                                                                              |
-| [https://github.com/guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) |                                                                                                                                                              |
-| [PandaGPT](https://www.pandagpt.io/)                                                   | Upload a file, ask anything，Powered by ChatGPT                                                                                                              |
-| [BookAI](https://www.bookai.chat/)                                                     | Chat with any book using AI                                                                                                                                  |
+<details><summary>上传文档总结和提问</summary>
 
-- 使用 ChatGPT 创建自己的应用案例
+- [ChatPDF](https://www.chatpdf.com/): 上传 PDF，然后可以针对此文档进行问答，或者总结文档内容。费用：10M 以内 PDF 免费，每天限 3 个
+- [ChatDoc](https://chatdoc.com/): 个人对比：chatpdf 支持连续提问，chatdoc 不支持；chatdoc 的回答似乎更好一些，并且页码点击跳转（应该表示它学习了哪些段落吧）。具体来说，感觉都可以以满足需求。
+- [DocsGPT](https://github.com/arc53/DocsGPT)
+- [https://github.com/guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles)
+- [PandaGPT](https://www.pandagpt.io/)： Upload a file, ask anything，Powered by ChatGPT
+- [BookAI](https://www.bookai.chat/)：Chat with any book using AI
+</details>
 
-| name                                                    | desc                                                                                                                            |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| ChatGPT Driven Development Record                       | 可以从中学习作者的提问方式和完整的开发过程                                                                                      |
-| [llama_index](https://github.com/jerryjliu/llama_index) | 非常好用的给 chatGPT 提供外部数据源，从而可以让它帮助我们分析网页、文档、新闻等等任务（比如读取 github 仓库来生成设计架构图等） |
+<details><summary>使用 ChatGPT 创建自己的应用案例</summary>
 
-- prompts 优化
+- ChatGPT Driven Development Record： 可以从中学习作者的提问方式和完整的开发过程
+- [llama_index](https://github.com/jerryjliu/llama_index)：非常好用的给 chatGPT 提供外部数据源，从而可以让它帮助我们分析网页、文档、新闻等等任务（比如读取 github 仓库来生成设计架构图等）
+</details>
 
-| name                                            | desc                                                                                                                                                                |
-| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Promptperfect](https://promptperfect.jina.ai/) | Promptperfect 是一款优化提示词的工具，输入自然语言后 promptperfect 自动将内容优化为机器更能理解的形式，支持 GPT、Midjourney、StableDiffusion 等多种 AI 的提示词优化 |
-|                                                 |                                                                                                                                                                     |
+<details><summary>prompts 优化</summary>
 
-- 编程相关
+- [Promptperfect](https://promptperfect.jina.ai/)：Promptperfect 是一款优化提示词的工具，输入自然语言后 promptperfect 自动将内容优化为机器更能理解的形式，支持 GPT、Midjourney、StableDiffusion 等多种 AI 的提示词优化
+</details>
 
-| name                                                  | desc                                                                                                                                      |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| [GitHub Copilot](https://github.com/features/copilot) | - 基于 OpenAI Codex（后续[Copilot X](https://github.com/features/preview/copilot-x)会支持 GPT-4）<br />- 费用：免费试用 60 天，之后$10/月 |
-| [Cursor](https://www.cursor.so/)                      | - 基于 gpt-3.5<br />- 费用：免费                                                                                                          |
-| [codeium](https://codeium.com/)                       | -[与其他产品对比](https://codeium.com/compare)<br />- 费用：免费                                                                          |
+<details><summary>网页，视频，文件总结等</summary>
 
-- 网页，视频，文件总结等
-
-| name                                                                                           | desc                                                                                                                                                                                    |
-| ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ChatGPT Siderbar](https://chrome.google.com/webstore/detail/difoiogjjojoaoomphldepapgpbgkhkb) |                                                                                                                                                                                         |
-| [Glarity Summary](https://glarity.app/zh-hans)                                                 | 一个万能的网页总结插件，支持谷歌各类搜索引擎、Youtube、Github、Yahoo、Twitter，甚至任意网页的总结，此外也支持设置不自动开启，使用的使用点击页面上一个 icon 即可，使用体验还是很舒服的。 |
-| [Webpilot](https://www.webpilot.ai/)                                                           | 与 ChatGPT 不同，无需聊天或切换页面，也无需复制和粘贴。只需选择文本，其他一切都会自动完成。                                                                                             |
-| [BibiGPT 哔哔终结者](https://b.jimmylv.cn/)                                                    | bilibili，youtube 等音视频总结，支持上传本地音视频文件。                                                                                                                                |
-| [myGPTReader](https://www.bmpi.dev/dev/chatgpt-development-notes/my-gpt-reader/)               | 使用 ChatGPT 创建自己的应用案例                                                                                                                                                         |
+- [ChatGPT Siderbar](https://chrome.google.com/webstore/detail/difoiogjjojoaoomphldepapgpbgkhkb)
+- [Glarity Summary](https://glarity.app/zh-hans)：一个万能的网页总结插件，支持谷歌各类搜索引擎、Youtube、Github、Yahoo、Twitter，甚至任意网页的总结，此外也支持设置不自动开启，使用的使用点击页面上一个 icon 即可，使用体验还是很舒服的。
+- [Webpilot](https://www.webpilot.ai/)：与 ChatGPT 不同，无需聊天或切换页面，也无需复制和粘贴。只需选择文本，其他一切都会自动完成。
+- [BibiGPT 哔哔终结者](https://b.jimmylv.cn/)：bilibili，youtube 等音视频总结，支持上传本地音视频文件。
+- [myGPTReader](https://www.bmpi.dev/dev/chatgpt-development-notes/my-gpt-reader/)：使用 ChatGPT 创建自己的应用案例。
+</details>
 
 ## ChatGPT Plugin
 
