@@ -58,7 +58,11 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04
 - [Learn Prompting](https://learnprompting.org/)：全面的提示工程课程。内容细致、课程系统、页面设计也非常友好！它把“提示工程”的知识分成了一个又一个的信息块，每块信息的教学简明又扼要，页面内还直接设有简体中文按钮。劣势是内容稍微有点老，案例都是英文而且用的是 GPT-3 的 API 做的教程， ChatGPT、GPT-4 出来后已经有了很多变化，但是看一看做快速入门是不错的。
 - [Learning prompt](https://learningprompt.wiki/): earningprompt 是一个提供 ChatGPT 和 Midjourney 教程的网站，教程内容深入浅出，包含基础的使用教程、Prompt 原理和使用实例，非常实用
 - [面向完全外行的 chatGPT 和大语言模型的介绍](http://hemin.live/2023/04/15/%e9%9d%a2%e5%90%91%e5%ae%8c%e5%85%a8%e5%a4%96%e8%a1%8c%e7%9a%84chatgpt%e5%92%8c%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e7%9a%84%e4%bb%8b%e7%bb%8d/)
-- [ChatGPT 科普系列](https://www.bilibili.com/video/BV1VY4y117Bx/?spm_id_from=333.788&vd_source=374c472369aaf0101e19ddf06e5e4233): 从专业的角度分别就发展轨迹、基本原理、竞品开发、社会影响和弱点局限等主题连续制作五期视频，深入全面地剖析 ChatGPT 的方方面面.
+- [ChatGPT 科普系列](https://www.bilibili.com/video/BV1VY4y117Bx/?spm_id_from=333.788&vd_source=374c472369aaf0101e19ddf06e5e4233): 从专业的角度分别就发展轨迹、基本原理、竞品开发、社会影响和弱点局限等主题连续制作五期视频，深入全面地剖析 ChatGPT 的方方面面。
+- [播客《大白话聊 ChatGPT（Sarah&王建硕）》](https://www.xiaoyuzhoufm.com/episode/641183b5bb1fc0cb68f810c6)：适合零基础小白
+- 文章：[《ChatGPT 为啥这么强：万字长文详解 by WolframAlpha 之父》](https://zhuanlan.zhihu.com/p/606817644)，适合零基础小白
+- 视频：[《【渐构】万字科普 GPT4 为何会颠覆现有工作流；为何你要关注微软 Copilot、文心一言等大模型》](https://www.bilibili.com/video/BV1MY4y1R7EN/)，适合零基础小白
+- 视频：[《手把手从头实现 GPT by Andrej Karpathy》](https://www.bilibili.com/video/BV1E14y1M75n/)，适合有基本编程概念的初学者
 
 ## ChatGPT 相关专业知识
 
@@ -156,6 +160,7 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04
 <details><summary>职场PPT相关</summary>
 
 - [Gamma.app](https://gamma.app/)：使用 GPT-4 生成 PPT，类似 Office Copilot，除了秒杀古典版 PowerPoint， 还可以做网页和普通文档。
+- 国内的可以看看这个：http://motion.yoo-ai.com/
 </details>
 
 ## ChatGPT Plugin
