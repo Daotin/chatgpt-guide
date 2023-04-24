@@ -1,6 +1,6 @@
 # chatgpt-guide
 
-ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04-23`
+ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04-24`
 
 ---
 
@@ -107,9 +107,14 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04
 
 </details>
 
-<details><summary>ChatGPT 辅助</summary>
+<details><summary>ChatGPT 增强</summary>
 
 - 不用手动刷新 ChatGPT，这个[油猴脚本](https://m.okjike.com/originalPosts/644257a3094426a059596806?s=eyJ1IjoiNWE4OGVkNWEwMTNhYjcwMDFiNTM2MDY2IiwiZCI6MX0%3D)让你再也不用时不时手动刷新 ChatGPT，类似的还有：https://github.com/xcanwin/KeepChatGPT/
+</details>
+
+<details><summary>ChatGPT 辅助编码</summary>
+
+- 开源项目[Bloop](https://github.com/BloopAI/bloop)：通过 Bloop，直接使用自然语言、正则表达式，来快速过滤查询搜索本地和远程存储库。让阅读源码变得更为高效，而无需拷贝一段代码让 ChatGPT 进行解释。
 </details>
 
 <details><summary>个人 AI 助理</summary>
@@ -164,6 +169,7 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04
 ## 好文分享
 
 - [使用 ChatGPT 的 4 个原则](https://m.okjike.com/originalPosts/643b6486205bd8b62e542eff)： 一篇文章分享了不需要去找 prompt,就可以激发 GPT 的潜能，让每次对话都受益匪浅～
+- [当创业者开始用 ChatGPT 裁员](https://mp.weixin.qq.com/s/XkqpR3apm-79w8GBVHy1kg): 裁员的那一天，我把文案的小伙伴们都叫到会议室，开诚布公地讲了是因为 ChatGPT，才导致了他们被替代。这个事比我想象中地更伤人。会议结束之后，有小伙伴感到非常失落，单独找我谈话。他说，从没想到科幻片的场景有一天会发生在自己身上。他觉得，哪怕是被另一个文案写得更好的人取代了，自己都可以接受。而被 ChatGPT 替代了，他真的心有不甘。
 
 ## 其他
 
