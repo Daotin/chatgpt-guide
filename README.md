@@ -55,7 +55,7 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04
 - [The Ultimate Chat GPT Course](https://daotin.notion.site/The-Ultimate-Chat-GPT-Course-c5895cbb68aa4472b262a3a10407579a)
 - [The Ultimate GPT-4 Guide](https://doc.clickup.com/37456139/d/h/13q28b-324/e2a22b0c164b1f9)
 - [ChatGPT 中文指南](https://gitlab.com/awesomeai/awesome-chatgpt-zh)
-- [Learn Prompting](https://learnprompting.org/)：全面的提示工程课程。内容细致、课程系统、页面设计也非常友好！它把“提示工程”的知识分成了一个又一个的信息块，每块信息的教学简明又扼要，页面内还直接设有简体中文按钮。
+- [Learn Prompting](https://learnprompting.org/)：全面的提示工程课程。内容细致、课程系统、页面设计也非常友好！它把“提示工程”的知识分成了一个又一个的信息块，每块信息的教学简明又扼要，页面内还直接设有简体中文按钮。劣势是内容稍微有点老，案例都是英文而且用的是 GPT-3 的 API 做的教程， ChatGPT、GPT-4 出来后已经有了很多变化，但是看一看做快速入门是不错的。
 - [Learning prompt](https://learningprompt.wiki/): earningprompt 是一个提供 ChatGPT 和 Midjourney 教程的网站，教程内容深入浅出，包含基础的使用教程、Prompt 原理和使用实例，非常实用
 - [面向完全外行的 chatGPT 和大语言模型的介绍](http://hemin.live/2023/04/15/%e9%9d%a2%e5%90%91%e5%ae%8c%e5%85%a8%e5%a4%96%e8%a1%8c%e7%9a%84chatgpt%e5%92%8c%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e7%9a%84%e4%bb%8b%e7%bb%8d/)
 - [ChatGPT 科普系列](https://www.bilibili.com/video/BV1VY4y117Bx/?spm_id_from=333.788&vd_source=374c472369aaf0101e19ddf06e5e4233): 从专业的角度分别就发展轨迹、基本原理、竞品开发、社会影响和弱点局限等主题连续制作五期视频，深入全面地剖析 ChatGPT 的方方面面.
@@ -69,7 +69,7 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04
 
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)（中文版：[awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)）： ChatGPT 中文调教指南
 - [Full ChatGPT Prompts + Resources](https://enchanting-trader-463.notion.site/Full-ChatGPT-Prompts-Resources-8aa78bb226b7467ab59b70d2b27042e9)
-- [flowgpt](https://flowgpt.com/)：一个 ChatGPT Prompts 分享网站，特点是可以在线试用选择的 Prompts
+- [flowgpt](https://flowgpt.com/)：免费的获取 prompt 的平台，优势是有比较好的分类和不同 prompt 的热度。还可以在线试用选择的 Prompts
 - [OpenPrompt](https://openprompt.co/)：也可以在线试用的 Prompts 分享网站
 - [Learning Prompt](https://learningprompt.wiki/)：一个很好的学习 Prompts 的网站，包含 ChatGPT 和 Midjourney 教程
 - [提示工程指南](https://www.promptingguide.ai/zh)：介绍了大语言模型相关的论文研究、学习指南、参考资料、以及与其他与提示工程相关的工具。其由浅入深的讲解了 prompt 的各种使用方法及其理论背景，对于快速掌握高效的 prompt 使用和对 ai 基本知识了解都很有帮助。个人认为这应该是每个人必读的 prompt 工程入门读物。
@@ -77,6 +77,7 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04
 - [ChatGPT Shortcut](https://www.aishort.top/)：让生产力加倍的 ChatGPT 快捷指令
 - [ChatGPT 备忘单](https://quickref.me/chatgpt)：此备忘单列出了来自世界各地的有关如何有效使用 ChatGPT 的提示和技巧
 - [Prompt 编写模式：如何将思维框架赋予机器](https://github.com/prompt-engineering/prompt-patterns)
+- [Mastering ChatGPT](https://gptbot.io/master-chatgpt-prompting-techniques-guide/): 一个相当不错的结构化介绍 ChatGPT prompt 的教程。
 
 ## 使用 ChatGPT 搭建的应用汇总网站
 
@@ -150,6 +151,11 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04
 - [Webpilot](https://www.webpilot.ai/)：与 ChatGPT 不同，无需聊天或切换页面，也无需复制和粘贴。只需选择文本，其他一切都会自动完成。
 - [BibiGPT 哔哔终结者](https://b.jimmylv.cn/)：bilibili，youtube 等音视频总结，支持上传本地音视频文件。
 - [myGPTReader](https://www.bmpi.dev/dev/chatgpt-development-notes/my-gpt-reader/)：使用 ChatGPT 创建自己的应用案例。
+</details>
+
+<details><summary>职场PPT相关</summary>
+
+- [Gamma.app](https://gamma.app/)：使用 GPT-4 生成 PPT，类似 Office Copilot，除了秒杀古典版 PowerPoint， 还可以做网页和普通文档。
 </details>
 
 ## ChatGPT Plugin
