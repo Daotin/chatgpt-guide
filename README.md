@@ -1,6 +1,6 @@
 # chatgpt-guide
 
-ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04-24`
+ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04-25`
 
 ---
 
@@ -14,9 +14,8 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04
 
 ## ChatGPT 套壳网站
 
-> ⭐ 表示使用过并且觉得不错的
+> ⭐ 表示之前使用过并且觉得不错的，有一些可能已经不能使用了。
 
-- https://chat.openai.com/chat 正版 ChatGPT⭐
 - https://www.xqss.link/ai 小秋搜索 ⭐
 - https://freegpt.one/ ⭐
 - https://chat.odeioikr.top/#/chat/1678960395367
