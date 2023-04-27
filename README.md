@@ -1,6 +1,6 @@
 # chatgpt-guide
 
-ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04-25`
+ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04-27`
 
 ---
 
@@ -81,6 +81,7 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04
 - [ChatGPT 备忘单](https://quickref.me/chatgpt)：此备忘单列出了来自世界各地的有关如何有效使用 ChatGPT 的提示和技巧
 - [Prompt 编写模式：如何将思维框架赋予机器](https://github.com/prompt-engineering/prompt-patterns)
 - [Mastering ChatGPT](https://gptbot.io/master-chatgpt-prompting-techniques-guide/): 一个相当不错的结构化介绍 ChatGPT prompt 的教程。
+- https://ai.newzone.top/
 
 ## 使用 ChatGPT 搭建的应用汇总网站
 
