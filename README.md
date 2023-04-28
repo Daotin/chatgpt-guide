@@ -82,6 +82,7 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04
 - [Prompt 编写模式：如何将思维框架赋予机器](https://github.com/prompt-engineering/prompt-patterns)
 - [Mastering ChatGPT](https://gptbot.io/master-chatgpt-prompting-techniques-guide/): 一个相当不错的结构化介绍 ChatGPT prompt 的教程。
 - https://ai.newzone.top/
+- [吴恩达联合 OpenAI 推出的 ChatGPT Prompt engineering 免费课程](https://learn.deeplearning.ai/)
 
 ## 使用 ChatGPT 搭建的应用汇总网站
 
