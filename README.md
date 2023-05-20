@@ -4,11 +4,8 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-05
 
 ---
 
-<div style="text-align: center">
-  <a href="#chatgpt-guide">chatgpt-guide</a>
-  <span> · </span>
-  <a href="./midjourney-guide.md">midjourney-guide</a>
-</div>
+<a href="#chatgpt-guide">✨chatgpt-guide</a>
+<a href="./midjourney-guide.md">✨midjourney-guide</a>
 
 ---
 
