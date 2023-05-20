@@ -1,6 +1,6 @@
 # chatgpt-guide
 
-ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04-27`
+ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-05-20`
 
 ---
 
@@ -16,7 +16,7 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04
 
 > ⭐ 表示之前使用过并且觉得不错的，有一些可能已经不能使用了。
 
-- https://www.xqss.link/ai 小秋搜索 ⭐
+- [https://www.xqss.link/ai](https://chat.xqai.net/) 小秋搜索 ⭐
 - https://freegpt.one/ ⭐
 - https://chat.odeioikr.top/#/chat/1678960395367
 - https://freechatgpt.lol/
@@ -42,31 +42,10 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04
 - https://lzw.me/x/chatgpt-sites/
 - [ChatGPT 国内平替网站（持续更新）——飞书](https://zl49so8lbq.feishu.cn/wiki/wikcnMEVynrv6f4RAAJzoZUFpHe)
 
-## ChatGPT 替代网站
+## AI 搜索引擎
 
 - [phind](https://www.phind.com/)：The AI search engine for developers.
 - [perplexity.ai](https://www.perplexity.ai/)：Perplexity AI 通过信息发现和共享释放知识的力量。
-
-## ChatGPT 入门教程
-
-- [GPT 学习宝典](https://gpt.candobear.com/)
-- [ChatGPT 知识库](https://chatgpt.moyucm.xyz/)
-- [The Ultimate Chat GPT Course](https://daotin.notion.site/The-Ultimate-Chat-GPT-Course-c5895cbb68aa4472b262a3a10407579a)
-- [The Ultimate GPT-4 Guide](https://doc.clickup.com/37456139/d/h/13q28b-324/e2a22b0c164b1f9)
-- [ChatGPT 中文指南](https://gitlab.com/awesomeai/awesome-chatgpt-zh)
-- [Learn Prompting](https://learnprompting.org/)：全面的提示工程课程。内容细致、课程系统、页面设计也非常友好！它把“提示工程”的知识分成了一个又一个的信息块，每块信息的教学简明又扼要，页面内还直接设有简体中文按钮。劣势是内容稍微有点老，案例都是英文而且用的是 GPT-3 的 API 做的教程， ChatGPT、GPT-4 出来后已经有了很多变化，但是看一看做快速入门是不错的。
-- [Learning prompt](https://learningprompt.wiki/): earningprompt 是一个提供 ChatGPT 和 Midjourney 教程的网站，教程内容深入浅出，包含基础的使用教程、Prompt 原理和使用实例，非常实用
-- [面向完全外行的 chatGPT 和大语言模型的介绍](http://hemin.live/2023/04/15/%e9%9d%a2%e5%90%91%e5%ae%8c%e5%85%a8%e5%a4%96%e8%a1%8c%e7%9a%84chatgpt%e5%92%8c%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e7%9a%84%e4%bb%8b%e7%bb%8d/)
-- [ChatGPT 科普系列](https://www.bilibili.com/video/BV1VY4y117Bx/?spm_id_from=333.788&vd_source=374c472369aaf0101e19ddf06e5e4233): 从专业的角度分别就发展轨迹、基本原理、竞品开发、社会影响和弱点局限等主题连续制作五期视频，深入全面地剖析 ChatGPT 的方方面面。
-- [播客《大白话聊 ChatGPT（Sarah&王建硕）》](https://www.xiaoyuzhoufm.com/episode/641183b5bb1fc0cb68f810c6)：适合零基础小白
-- 文章：[《ChatGPT 为啥这么强：万字长文详解 by WolframAlpha 之父》](https://zhuanlan.zhihu.com/p/606817644)，适合零基础小白
-- 视频：[《【渐构】万字科普 GPT4 为何会颠覆现有工作流；为何你要关注微软 Copilot、文心一言等大模型》](https://www.bilibili.com/video/BV1MY4y1R7EN/)，适合零基础小白
-- 视频：[《手把手从头实现 GPT by Andrej Karpathy》](https://www.bilibili.com/video/BV1E14y1M75n/)，适合有基本编程概念的初学者
-
-## ChatGPT 相关专业知识
-
-- [What Are Transformer Models and How Do They Work?](https://txt.cohere.com/what-are-transformer-models/)：这篇文章通俗易懂地讲了 transformer 的原理，包括模型结构，词生成的基本流程，图画的也很生动，非常易读，适合好奇想对 transformer 有个基本认知的人。
-- [【生成式 AI】ChatGPT 原理剖析 (1/3) — 對 ChatGPT 的常見誤解](https://www.youtube.com/watch?v=yiY4nPOzJEg)：来自台湾李宏毅老师讲解的关于 ChatGPT 原理剖析的课程，讲的很浅显易懂，此外这个老师视频主页有大量机器学习的课程讲解，发现这个老师很潮流，挺不错的。
 
 ## ChatGPT Prompts
 
@@ -178,10 +157,33 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-04
   - （下）https://mp.weixin.qq.com/s/8EE3y4hU5Rp0rCCDPBEL2w
   - 代码仓库 https://github.com/lencx/chat-todo-plugin
 
+## ChatGPT 入门教程
+
+- [GPT 学习宝典](https://gpt.candobear.com/)
+- [ChatGPT 知识库](https://chatgpt.moyucm.xyz/)
+- [The Ultimate Chat GPT Course](https://daotin.notion.site/The-Ultimate-Chat-GPT-Course-c5895cbb68aa4472b262a3a10407579a)
+- [The Ultimate GPT-4 Guide](https://doc.clickup.com/37456139/d/h/13q28b-324/e2a22b0c164b1f9)
+- [ChatGPT 中文指南](https://gitlab.com/awesomeai/awesome-chatgpt-zh)
+- [Learn Prompting](https://learnprompting.org/)：全面的提示工程课程。内容细致、课程系统、页面设计也非常友好！它把“提示工程”的知识分成了一个又一个的信息块，每块信息的教学简明又扼要，页面内还直接设有简体中文按钮。劣势是内容稍微有点老，案例都是英文而且用的是 GPT-3 的 API 做的教程， ChatGPT、GPT-4 出来后已经有了很多变化，但是看一看做快速入门是不错的。
+- [Learning prompt](https://learningprompt.wiki/): earningprompt 是一个提供 ChatGPT 和 Midjourney 教程的网站，教程内容深入浅出，包含基础的使用教程、Prompt 原理和使用实例，非常实用
+- [面向完全外行的 chatGPT 和大语言模型的介绍](http://hemin.live/2023/04/15/%e9%9d%a2%e5%90%91%e5%ae%8c%e5%85%a8%e5%a4%96%e8%a1%8c%e7%9a%84chatgpt%e5%92%8c%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e7%9a%84%e4%bb%8b%e7%bb%8d/)
+- [ChatGPT 科普系列](https://www.bilibili.com/video/BV1VY4y117Bx/?spm_id_from=333.788&vd_source=374c472369aaf0101e19ddf06e5e4233): 从专业的角度分别就发展轨迹、基本原理、竞品开发、社会影响和弱点局限等主题连续制作五期视频，深入全面地剖析 ChatGPT 的方方面面。
+
 ## 好文分享
 
+- [播客《大白话聊 ChatGPT（Sarah&王建硕）》](https://www.xiaoyuzhoufm.com/episode/641183b5bb1fc0cb68f810c6)：适合零基础小白
+- 文章：[《ChatGPT 为啥这么强：万字长文详解 by WolframAlpha 之父》](https://zhuanlan.zhihu.com/p/606817644)，适合零基础小白
+- 视频：[《【渐构】万字科普 GPT4 为何会颠覆现有工作流；为何你要关注微软 Copilot、文心一言等大模型》](https://www.bilibili.com/video/BV1MY4y1R7EN/)，适合零基础小白
+- 视频：[《手把手从头实现 GPT by Andrej Karpathy》](https://www.bilibili.com/video/BV1E14y1M75n/)，适合有基本编程概念的初学者
 - [使用 ChatGPT 的 4 个原则](https://m.okjike.com/originalPosts/643b6486205bd8b62e542eff)： 一篇文章分享了不需要去找 prompt,就可以激发 GPT 的潜能，让每次对话都受益匪浅～
 - [当创业者开始用 ChatGPT 裁员](https://mp.weixin.qq.com/s/XkqpR3apm-79w8GBVHy1kg): 裁员的那一天，我把文案的小伙伴们都叫到会议室，开诚布公地讲了是因为 ChatGPT，才导致了他们被替代。这个事比我想象中地更伤人。会议结束之后，有小伙伴感到非常失落，单独找我谈话。他说，从没想到科幻片的场景有一天会发生在自己身上。他觉得，哪怕是被另一个文案写得更好的人取代了，自己都可以接受。而被 ChatGPT 替代了，他真的心有不甘。
+
+
+## ChatGPT 相关专业知识
+
+- [What Are Transformer Models and How Do They Work?](https://txt.cohere.com/what-are-transformer-models/)：这篇文章通俗易懂地讲了 transformer 的原理，包括模型结构，词生成的基本流程，图画的也很生动，非常易读，适合好奇想对 transformer 有个基本认知的人。
+- [【生成式 AI】ChatGPT 原理剖析 (1/3) — 對 ChatGPT 的常見誤解](https://www.youtube.com/watch?v=yiY4nPOzJEg)：来自台湾李宏毅老师讲解的关于 ChatGPT 原理剖析的课程，讲的很浅显易懂，此外这个老师视频主页有大量机器学习的课程讲解，发现这个老师很潮流，挺不错的。
+- [《解析 Transformers：理解 GPT，BERT 和 T5 模型背后的原理》（中英文字幕）](https://www.youtube.com/watch?v=SZorAJ4I-sA)：过去五年中，Transformers，一种神经网络架构，完全改变了自然语言处理的最先进技术。想要使用机器学习来翻译文本吗？好奇一个机器学习模型如何能够写出诗歌或专栏文章吗？Transformers 可以做到所有这些。在这一集的“ML 制造”中，Dale Markowitz 解释了什么是 transformers，它们如何工作，以及它们为何具有如此大的影响力。观看此视频，了解你如何开始在你的应用中使用 transformers！
 
 ## 其他
 
