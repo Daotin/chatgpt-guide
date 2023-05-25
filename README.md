@@ -1,6 +1,6 @@
 # chatgpt-guide
 
-ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-05-20`
+ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-05-25`
 
 ---
 
@@ -71,6 +71,8 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-05
 - [emergentmind](https://www.emergentmind.com/)：国外的一个分享 AI 创意的网站
 - [带你玩赚 AIGC](https://www.aigctoolkit.com/): 按使用场景做了详细的分类，可以快速找到自己想要的 ai 应用。别的站都在疯狂地增加收录，这个站一直在不停的删除收录，收录的质量还是不错的。
 - https://chatbene.com/
+- [AI 工具集导航](https://ai.nancheng.fun/)
+- [AI 导航网址大全](https://wz.aidaohang.com.cn/)
 
 ### 使用 OpenAI Api 搭建个人网站
 
@@ -165,6 +167,7 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-05
 - [Learning prompt](https://learningprompt.wiki/): earningprompt 是一个提供 ChatGPT 和 Midjourney 教程的网站，教程内容深入浅出，包含基础的使用教程、Prompt 原理和使用实例，非常实用
 - [面向完全外行的 chatGPT 和大语言模型的介绍](http://hemin.live/2023/04/15/%e9%9d%a2%e5%90%91%e5%ae%8c%e5%85%a8%e5%a4%96%e8%a1%8c%e7%9a%84chatgpt%e5%92%8c%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e7%9a%84%e4%bb%8b%e7%bb%8d/)
 - [ChatGPT 科普系列](https://www.bilibili.com/video/BV1VY4y117Bx/?spm_id_from=333.788&vd_source=374c472369aaf0101e19ddf06e5e4233): 从专业的角度分别就发展轨迹、基本原理、竞品开发、社会影响和弱点局限等主题连续制作五期视频，深入全面地剖析 ChatGPT 的方方面面。
+- [ChatGPT 学习手册-飞书](https://nujuo8y1qx.feishu.cn/docx/AdqEdlT52oBiawx6Vv2cc89DnLb): 持续更新 ChatGPT 的相关资讯动态，研究报告，赚钱案例，实用场景等 12 个板块内容，永久免费在线查看。
 
 ## 好文分享
 
@@ -174,7 +177,6 @@ ChatGPT 和 Midjourney 相关入门指南及资料分享。`last update: 2023-05
 - 视频：[《手把手从头实现 GPT by Andrej Karpathy》](https://www.bilibili.com/video/BV1E14y1M75n/)，适合有基本编程概念的初学者
 - [使用 ChatGPT 的 4 个原则](https://m.okjike.com/originalPosts/643b6486205bd8b62e542eff)： 一篇文章分享了不需要去找 prompt,就可以激发 GPT 的潜能，让每次对话都受益匪浅～
 - [当创业者开始用 ChatGPT 裁员](https://mp.weixin.qq.com/s/XkqpR3apm-79w8GBVHy1kg): 裁员的那一天，我把文案的小伙伴们都叫到会议室，开诚布公地讲了是因为 ChatGPT，才导致了他们被替代。这个事比我想象中地更伤人。会议结束之后，有小伙伴感到非常失落，单独找我谈话。他说，从没想到科幻片的场景有一天会发生在自己身上。他觉得，哪怕是被另一个文案写得更好的人取代了，自己都可以接受。而被 ChatGPT 替代了，他真的心有不甘。
-
 
 ## ChatGPT 相关专业知识
 
